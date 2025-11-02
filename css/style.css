@@ -1,0 +1,18 @@
+css/style.css
+
+body {
+    background-color: #f8f9fa;
+}
+
+legend.h5 {
+    font-size: 1.1rem;
+    font-weight: 600;
+}
+
+.item-dinamico {
+    background: #fdfdfd;
+    border: 1px solid #eee;
+    padding: 15px;
+    border-radius: 5px;
+    margin-top: 10px;
+}
